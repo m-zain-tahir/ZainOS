@@ -163,7 +163,7 @@ Every line was written by hand. No templates, no frameworks, no shortcuts.
 B.S. Software Engineering — University of Lahore (4th Semester)  
 Lahore, Pakistan
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/mzaintahir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/muhammad-zain-tahir07)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/m-zain-tahir)
 
 ---
